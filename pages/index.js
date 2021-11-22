@@ -11,9 +11,9 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Read{' '} // adds an empty space, which is used to divide text over multiple lines.
+          Read{' '} {/* adds an empty space, which is used to divide text over multiple lines. */}
           <Link href="/posts/first-post">
-            <a>This page</a>
+            <a>this page</a>
           </Link>
         </h1>
 
